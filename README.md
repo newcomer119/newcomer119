@@ -12,7 +12,7 @@ I'm a passionate **Electronics and Computer Engineering** student at UPES, Dehra
 - 🌱 Learning advanced **Deep Learning** and **Cloud Architecture**
 - 🎯 Passionate about **AI/ML**, **Bioinformatics**, and **Real-time Systems**
 - 📫 Reach me at: **mitarth.125035@stu.upes.ac.in**
-- 📱 Phone: **+91 9104411978**
+
 
 ## 🏆 Featured Projects
 
