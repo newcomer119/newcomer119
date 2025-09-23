@@ -111,13 +111,12 @@ I'm a passionate **Electronics and Computer Engineering** student at UPES, Dehra
 
 **University of Petroleum and Energy Studies (UPES), Dehradun**  
 *Bachelor of Technology, Electronics and Computer Engineering* | Expected 2027  
-**SGPA**: 7.8/10.0
 
 **Core Coursework**: Data Structures & Algorithms, Operating Systems, Computer Networks, Database Management Systems, Object-Oriented Programming, Machine Learning
 
 ## 🏆 Hackathon Success
 
-- 🥉 **4th Place** - ResQAI Disaster Reporting Platform (48-hour hackathon)
+- 🥉 ResQAI Disaster Reporting Platform (48-hour hackathon)
 - 🚀 Built real-time disaster detection system with AI-powered sentiment analysis
 
 ## 🌟 What Sets Me Apart
