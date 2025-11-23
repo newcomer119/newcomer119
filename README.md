@@ -1,70 +1,96 @@
 # Hi there, I'm Mitarth Pandey! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Engineer;Genomics+Research+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Generative+AI+Engineer;Genomics+%26+MLOps+Specialist;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Electronics and Computer Engineering** student at UPES, Dehradun, with a deep fascination for **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**. I love building scalable solutions that make a real-world impact, from genomic analysis platforms to disaster reporting systems.
+I'm a passionate **Electronics and Computer Engineering** student at UPES, Dehradun, specializing in **Full-Stack Development** and **Generative AI Engineering**. I build production-ready applications, scalable backend systems, and advanced AI pipelines that deliver real-world impact across corporate, e-commerce, wellness, and education sectors.
 
-- 🔬 Currently working on **Applied Genomic AI** with 40B-parameter models
-- 🌱 Learning advanced **Deep Learning** and **Cloud Architecture**
-- 🎯 Passionate about **AI/ML**, **Bioinformatics**, and **Real-time Systems**
-- 📫 Reach me at: **mitarth.125035@stu.upes.ac.in**
+- 🔬 Currently working on **Applied Genomic AI** with 40B-parameter foundation models
+- 🎙️ Building **AI-powered podcast clipping platforms** with WhisperX and GPT-4o-mini
+- 🌱 Experienced across major LLM ecosystems: **OpenAI, Anthropic, Meta, Mistral, Hugging Face**
+- 🎯 Passionate about **GenAI**, **MLOps**, **HPC workflows**, and **GPU-accelerated pipelines**
+- 📫 Reach me at: **mitarthpandey@gmail.com**
 
+---
 
 ## 🏆 Featured Projects
 
-### 🧬 [Applied Genomic AI Platform](https://github.com/newcomer119/VAANALYSIS) | [Live Demo](https://vaanalysis.vercel.app/)
-> Real-time genomic analysis framework using 40B-parameter Evo2 model
+### 🧬 [Genomic AI Foundation Model (40B) — Precision Medicine](https://vaanalysis.vercel.app/)
+> Real-time genomic variant analysis using 40B-parameter Evo2 foundation model
 
-- 🎯 **90%+ accuracy** in variant pathogenicity prediction
-- ⚡ Processes **1,000+ analyses per hour** with cloud-native backend
-- 🏥 Applications in clinical analysis, species identification, and biodiversity assessment
-- 💻 **Tech**: PyTorch, NVIDIA H100 GPU, Cloud Computing
+- 🎯 Achieved **>94.2% variant classification accuracy**
+- ⚡ Built **2-5s real-time inference pipeline** on NVIDIA H100 GPUs + Modal cloud infrastructure
+- 🔬 Developed full-stack genomic analysis dashboard with interactive visualizations and RESTful APIs
+- 🏥 Applications in clinical diagnostics and precision medicine
+- 💻 **Tech Stack**: PyTorch, NVIDIA H100, Modal, React, Node.js, REST APIs
 
-### 🎵 [Deep Audio Classification CNN](https://github.com/newcomer119/audio-classification-cnn)
-> End-to-end audio classification with custom ResNet architecture
+---
 
-- 🏗️ Custom **ResNet-style CNN** built with PyTorch
-- 🔊 Advanced audio preprocessing with Mel Spectrograms
-- 🚀 Serverless GPU inference using **Modal** and **FastAPI**
-- 📊 Interactive **Next.js** dashboard with real-time visualization
+### 🎙️ [AI Podcast Clipper — Full-Stack AI/MLOps Platform](https://empathai-beta.vercel.app/)
+> Automated viral short-form clip generation from long-form podcasts | [Demo Video](https://www.youtube.com/watch?v=xaGF5_I9Uu8)
 
-### 🎶 AI Music Generation SaaS Platform
-> Full-stack application for AI-powered music creation
+- 🤖 Built automated clipping system using **WhisperX** and **GPT-4o-mini** in HPC environment
+- 🎬 Implemented **GPU-accelerated FFmpeg pipeline** for 9:16 rendering and subtitle alignment
+- ✂️ Developed **Next.js 14 dashboard** enabling transcript-based editing ("edit by typing")
+- ⚡ Processes **100+ hours of content monthly** with intelligent scene detection
+- 💻 **Tech Stack**: WhisperX, GPT-4o-mini, FFmpeg, Next.js, HPC, GPU Computing
 
-- 🎼 Generates unique music from text prompts using **ACE Studio's 'ace-step'**
-- ☁️ Scalable **AWS** infrastructure with S3 and IAM
-- 💳 Complete SaaS solution with payment integration
+---
 
 ### 🆘 [ResQAI - Disaster Reporting Platform](https://resqai.vercel.app/)
-> Real-time disaster detection and reporting system (48-hour hackathon - 4th Place)
+> Real-time disaster detection and reporting system (48-hour hackathon - **4th Place** 🏆)
 
-- 🗺️ Live disaster zone mapping with social media sentiment analysis
-- 🤖 **Hugging Face** sentiment analysis integration
-- ⚡ Real-time data processing and visualization
+- 🗺️ Live disaster zone mapping with **social media sentiment analysis**
+- 🤖 **Hugging Face** NLP integration for real-time threat detection
+- ⚡ Real-time data processing and interactive visualization
+- 🚨 Community-driven incident reporting with geolocation
+- 💻 **Tech Stack**: React, Node.js, Hugging Face, MongoDB, MapBox API
 
-## 💼 Professional Projects
+---
+
+## 💼 Client Projects Delivered
 
 <details>
-<summary>🏢 Client Work & Production Applications</summary>
+<summary>🏢 Production Applications & Freelance Work</summary>
 
-- **[AI-Powered Client Feedback Service](https://aiservices-theta.vercel.app/)** - Automated phone survey system with AI agents
-- **[CodeSync Interview Platform](https://codesync-mia1.vercel.app/)** - Low-latency video interview platform with StreamIO
-- **[The Gurukul Classes LMS](https://thegurukulclasses.com)** - Complete learning management system for coaching center
-- **[Filament Freaks E-commerce](https://filamentfreaks.com)** - Full-stack e-commerce with custom admin dashboard
-- **[Yen Yoga Retreat](https://yenyogaretreat.org)** - Bilingual corporate website with Sanity CMS
-- **[Audexis Consultancy](https://audexisconsultancy.com)** - Professional corporate website for transcription services
+### 🏢 [Audexis Consultancy](https://audexisconsultancy.com/)
+> Modern corporate website for professional consultancy services
+- 💼 Built with **React** and **EmailJS** for automated contact forms
+- 🎨 Clean, professional UI/UX with responsive design
+- 📧 Integrated email automation for client inquiries
+
+### 🧘 [Yen Yoga Retreat](https://yenyogaretreat.org/)
+> Bilingual wellness platform (Vietnamese/English)
+- 🌏 Built with **React + Sanity CMS** for easy content management
+- 🌐 Full bilingual support with dynamic content switching
+- 📱 Mobile-first responsive design for retreat bookings
+
+### 🛒 [Filament Freaks](https://filamentfreaks.com/)
+> Full-stack e-commerce platform for 3D printing materials
+- 🛍️ Built with **Next.js + MongoDB** for scalable product management
+- 👨‍💼 Custom admin dashboard for inventory and order management
+- 💳 Integrated payment processing and order tracking
+
+### 📚 [The Gurukul Classes](https://thegurukulclasses.com/)
+> Complete Learning Management System for coaching institute
+- 🎓 **MERN stack** application with course management
+- 💰 Payment integration for course enrollments
+- 📊 Admin dashboard for student tracking and analytics
+- 🎥 Video streaming and assignment submission features
 
 </details>
 
+---
+
 ## 🛠️ Tech Stack
 
-### 🤖 AI/ML & Data Science
+### 🤖 AI/ML & GenAI
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-yellow?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/🦜%20LangChain-green?style=for-the-badge)
 
@@ -80,18 +106,29 @@ I'm a passionate **Electronics and Computer Engineering** student at UPES, Dehra
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend & Cloud
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### 🔧 Tools & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -107,38 +144,64 @@ I'm a passionate **Electronics and Computer Engineering** student at UPES, Dehra
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newcomer119&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🎓 Education & Achievements
+---
+
+## 🎓 Education
 
 **University of Petroleum and Energy Studies (UPES), Dehradun**  
-*Bachelor of Technology, Electronics and Computer Engineering* | Expected 2027  
+*Bachelor of Technology in Electronics and Computer Engineering* | 2023 - 2027  
 
 **Core Coursework**: Data Structures & Algorithms, Operating Systems, Computer Networks, Database Management Systems, Object-Oriented Programming, Machine Learning
 
-## 🏆 Hackathon Success
+---
 
-- 🥉 ResQAI Disaster Reporting Platform (48-hour hackathon)
-- 🚀 Built real-time disaster detection system with AI-powered sentiment analysis
+## 🏆 Achievements & Recognition
+
+- 🚀 Built **15+ production-grade applications** across AI, SaaS, and full-stack domains
+- 🥉 **4th Place** - ResQAI Disaster Reporting Platform (48-hour hackathon)
+- 💼 Delivered **4 live client projects** generating measurable business impact
+- 🔬 Research experience with **40B-parameter foundation models** in genomics
+- ⚡ Strong hybrid skillset: **Full-Stack Engineering + GenAI + MLOps + HPC**
+
+---
+
+## 📜 Certifications
+
+- ✅ **Java DSA Masterclass** - Elshad Karimov
+- ✅ **Complete Full-Stack Web Development** - Angela Yu
+- ✅ **Ethical Hacking Bootcamp** - Udemy
+- ✅ **Generative AI with LangChain & Hugging Face** - Krish Naik
+- ✅ **AI Engineer MLOps Track (GenAI & Agentic Systems)** - Ed Donner
+
+---
 
 ## 🌟 What Sets Me Apart
 
-- 🔬 **Research Experience**: Working with cutting-edge 40B-parameter AI models for genomic analysis
-- 🏗️ **Full-Stack Expertise**: From React frontends to scalable cloud backends
-- 🤖 **AI Specialization**: Deep learning, NLP, computer vision, and bioinformatics applications
-- ⚡ **Rapid Prototyping**: Proven ability to build complex systems in short timeframes
-- 🌍 **Real-World Impact**: Projects spanning healthcare, disaster management, education, and e-commerce
+- 🔬 **Production AI Experience**: Real-world deployment of 40B models with GPU acceleration
+- 🏗️ **Full-Stack Mastery**: End-to-end development from React frontends to scalable cloud backends
+- 🤖 **LLM Ecosystem Expertise**: Hands-on with OpenAI, Anthropic, Meta, Mistral, Hugging Face
+- ⚡ **MLOps & HPC**: Experience with GPU pipelines, cloud-native deployments, and real-time systems
+- 🌍 **Diverse Domain Impact**: Healthcare, disaster management, education, e-commerce, wellness
+- 🎯 **Client-Focused**: Proven ability to translate complex requirements into user-centric products
+
+---
 
 ## 📈 Current Focus
 
-- 🧬 Advancing **computational genomics** with AI
+- 🧬 Advancing **precision medicine** with AI-powered genomic analysis
+- 🎙️ Building **production-grade GenAI applications** with multimodal models
 - ☁️ Mastering **cloud-native architectures** and **serverless computing**
-- 🤖 Exploring **large language models** and their applications
-- 🚀 Building **scalable AI solutions** for real-world problems
+- 🤖 Exploring **agentic AI systems** and **LLM orchestration**
+- 🚀 Contributing to **impactful open-source projects**
+
+---
 
 ## 📫 Let's Connect!
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitarth.125035@stu.upes.ac.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitarthpandey@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mitarthin-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitarth-pandey-17239121a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/newcomer119)
 
@@ -151,5 +214,5 @@ I'm a passionate **Electronics and Computer Engineering** student at UPES, Dehra
 </div>
 
 <div align="center">
-  <i>"Building the future, one line of code at a time" ✨</i>
+  <i>"Translating complex requirements into reliable, user-centric digital products" ✨</i>
 </div>
