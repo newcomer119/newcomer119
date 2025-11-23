@@ -152,10 +152,6 @@ I'm a passionate **Electronics and Computer Engineering** student at UPES, Dehra
 **University of Petroleum and Energy Studies (UPES), Dehradun**  
 *Bachelor of Technology in Electronics and Computer Engineering* | 2023 - 2027  
 
-**Core Coursework**: Data Structures & Algorithms, Operating Systems, Computer Networks, Database Management Systems, Object-Oriented Programming, Machine Learning
-
----
-
 ## 🏆 Achievements & Recognition
 
 - 🚀 Built **15+ production-grade applications** across AI, SaaS, and full-stack domains
