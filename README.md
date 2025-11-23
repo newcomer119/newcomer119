@@ -40,14 +40,15 @@ I'm a passionate **Electronics and Computer Engineering** student at UPES, Dehra
 
 ---
 
-### 🆘 [ResQAI - Disaster Reporting Platform](https://resqai.vercel.app/)
-> Real-time disaster detection and reporting system (48-hour hackathon - **4th Place** 🏆)
+### 💼 [Client Projects Portfolio](https://mitarthin-portfolio.vercel.app/)
+> Production-grade web applications delivered across multiple industries
 
-- 🗺️ Live disaster zone mapping with **social media sentiment analysis**
-- 🤖 **Hugging Face** NLP integration for real-time threat detection
-- ⚡ Real-time data processing and interactive visualization
-- 🚨 Community-driven incident reporting with geolocation
-- 💻 **Tech Stack**: React, Node.js, Hugging Face, MongoDB, MapBox API
+- 🏢 **4 Live Production Websites** deployed and actively serving clients
+- 🛒 **E-commerce Platform** with custom admin dashboard and inventory management
+- 📚 **Learning Management System** with course delivery, payments, and student tracking
+- 🌐 **Bilingual CMS Integration** for international wellness brand
+- 🎨 **Modern UI/UX** with responsive design and SEO optimization
+- 💻 **Tech Stack**: React, Next.js, Node.js, MongoDB, Sanity CMS, MERN Stack, EmailJS
 
 ---
 
