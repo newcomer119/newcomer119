@@ -19,9 +19,8 @@ I'm a passionate **Electronics and Computer Engineering** student at UPES, Dehra
 ## 🏆 Featured Projects
 
 ### 🧬 [Genomic AI Foundation Model (40B) — Precision Medicine](https://vaanalysis.vercel.app/)
-> Real-time genomic variant analysis using 40B-parameter Evo2 foundation model
+> Real-time genomic variant analysis using Evo2 foundation model
 
-- 🎯 Achieved **>94.2% variant classification accuracy**
 - ⚡ Built **2-5s real-time inference pipeline** on NVIDIA H100 GPUs + Modal cloud infrastructure
 - 🔬 Developed full-stack genomic analysis dashboard with interactive visualizations and RESTful APIs
 - 🏥 Applications in clinical diagnostics and precision medicine
